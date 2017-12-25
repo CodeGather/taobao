@@ -1,1 +1,1 @@
-# taobao
+使用selenium和PhantomJS无头浏览器抓取淘宝商品，保存到数据库
